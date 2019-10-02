@@ -13,6 +13,10 @@ public class Main {
         System.out.println("hey");
     }
 
+    public static void printJello(){
+        System.out.println("hey");
+    }
+
     public static void main(String[] args) throws IOException , CloneNotSupportedException {
 
 
