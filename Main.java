@@ -9,6 +9,10 @@ import java.lang.*;
 
 public class Main {
 
+    public static void printHello(){
+        System.out.println("hey");
+    }
+
     public static void main(String[] args) throws IOException , CloneNotSupportedException {
 
 
